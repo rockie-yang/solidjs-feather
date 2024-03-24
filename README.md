@@ -1,6 +1,6 @@
-# jsx-feather
+# solidjs-feather
 
-Feather Icons for SolidJS/ReactJS or any other JSX library.
+Feather Icons for SolidJS or any other JSX library as long as it use kebab-case.
 Or even for a homebrew JSX libraries like I do.
 
 We take the most simple and lean way just like [feathericons](https://feathericons.com/) does.
