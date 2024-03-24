@@ -1,0 +1,24 @@
+{
+  "name": "solidjs-feather",
+  "version": "1.0.0",
+  "description": "Feather Icons for SolidJS",
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./*.jsx": "./src/*.jsx"
+  },
+  "keywords": [
+    "feather",
+    "icon",
+    "Solid",
+    "jsx",
+    "homebrew",
+    "feathericons",
+    "SolidJS"
+  ],
+  "author": "Rockie Yang",
+  "license": "MIT",
+  "dependencies": {
+
+  }
+}
