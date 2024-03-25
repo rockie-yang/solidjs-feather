@@ -21,6 +21,7 @@ function App() {
       </div>
       <h1>Solid + Feather</h1>
         <h3>A thin wrapper with JSX on <a href="https://feathericons.com/">feather icons</a></h3>
+        <p><code>npm i solidjs-feather</code></p>
         <p>All icons has default value, while they can be customized with different value if needed</p>
         <div style="font-size: 1rem">
             <pre><code>&lt;IconFeather strokeWidth={"{1}"}/&gt;</code></pre>
